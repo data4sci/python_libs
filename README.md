@@ -11,3 +11,7 @@ NetworkX
 <http://pyviz.org/> rozcestník pro interaktivní vizualizace 
 
 
+Tox, Noc, Invoke - automatizace nejen testů
+
+Papermill - automatizace a parametrizace Jupyter Notebooků
+
