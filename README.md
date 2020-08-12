@@ -15,3 +15,4 @@ Tox, Noc, Invoke - automatizace nejen testů
 
 Papermill - automatizace a parametrizace Jupyter Notebooků
 
+[drawSvg](https://github.com/cduck/drawSvg) -  library for programmatically generating SVG images (vector drawings) and rendering them or displaying them in a Jupyter notebook
